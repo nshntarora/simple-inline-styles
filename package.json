@@ -1,0 +1,26 @@
+{
+  "name": "simple-inline-styles",
+  "version": "1.0.0",
+  "description": "Write inline CSS like CSS, not JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nshntarora/simple-inline-styles.git"
+  },
+  "keywords": [
+    "css",
+    "styles",
+    "json",
+    "react",
+    "vue"
+  ],
+  "author": "Nishant Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nshntarora/simple-inline-styles/issues"
+  },
+  "homepage": "https://github.com/nshntarora/simple-inline-styles#readme"
+}
